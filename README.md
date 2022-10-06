@@ -1,2 +1,5 @@
 # ADMN5006-Assignment1
- esign and develop machine learning models for corporate bankruptcy prediction 2 years
+ Design and develop machine learning models for corporate bankruptcy prediction 2 years
+
+# How to Use
+<p> Use this with Jupyter Notebook</p>
